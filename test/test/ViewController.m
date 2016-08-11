@@ -20,6 +20,8 @@
     NSLog(@"第一次");
     
     NSLog(@"成功了");
+    
+    NSLog(@"lujiaping");
 }
 
 - (void)didReceiveMemoryWarning {
